@@ -1,4 +1,0 @@
-{
-    "tsConfig": "tsconfig.json",
-    "fileExtensions": ["ts", "js"]
-}
