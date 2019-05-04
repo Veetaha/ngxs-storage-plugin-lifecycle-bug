@@ -1,1 +1,1 @@
-Change directory into `frontend` and run `npx ng serve`.
+Change directory into `frontend` and run `npm i && npx ng serve`.
